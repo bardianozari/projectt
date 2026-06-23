@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-y5!ea1tz_gr-onp=5lkcgc9kyz^!1xp#n9jbr6^vi%+_(b)#9w
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['centerava.ir','www.centerava.ir']
+ALLOWED_HOSTS = ['*']
 
 
 
